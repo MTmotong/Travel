@@ -1,17 +1,15 @@
 <template>
   <div class="list">
-    <li class="item">A</li>
-    <li class="item">A</li>
-    <li class="item">A</li>
-    <li class="item">A</li>
-    <li class="item">A</li>
-    <li class="item">A</li>
+    <li class="item" v-for="(item, key) of cities" :key="key">{{key}}</li>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'CityAlphabet'
+  name: 'CityAlphabet',
+  props: {
+    cities: Object
+  }
 }
 </script>
 
@@ -28,7 +26,7 @@ export default {
     width .4rem
     .item {
       display flex
-      line-height .44rem
+      line-height .34rem
       text-align center
       color $bgColor
     }

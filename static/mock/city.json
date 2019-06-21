@@ -1,0 +1,313 @@
+{
+  "ret": true,
+  "data":{
+    "hotCities":[{
+      "id": 1,
+      "spell": "beijing",
+      "name": "北京"
+    }, {
+        "id": 3,
+        "spell": "shanghai",
+        "name": "上海"
+    }, {
+        "id": 47,
+        "spell": "xian",
+        "name": "西安"
+    }, {
+        "id": 239,
+        "spell": "sanya",
+        "name": "三亚"
+    }, {
+        "id": 125,
+        "spell": "guilin",
+        "name": "桂林"
+    }],
+    "cities": {
+      "A": [{
+        "id": 56,
+        "spell": "aba",
+        "name": "阿坝"
+      }, {
+          "id": 57,
+          "spell": "akesu",
+          "name": "阿克苏"
+      }, {
+          "id": 58,
+          "spell": "alashanmeng",
+          "name": "阿拉善盟"
+      }, {
+          "id": 59,
+          "spell": "aletai",
+          "name": "阿勒泰"
+      }, {
+          "id": 60,
+          "spell": "ankang",
+          "name": "安康"
+      }, {
+          "id": 61,
+          "spell": "anqing",
+          "name": "安庆"
+      }, {
+          "id": 62,
+          "spell": "anshan",
+          "name": "鞍山"
+      }, {
+          "id": 63,
+          "spell": "anshun",
+          "name": "安顺"
+      }, {
+          "id": 64,
+          "spell": "anyang",
+          "name": "安阳"
+      }], 
+      "B": [{
+        "id": 100,
+        "spell": "beijing",
+        "name": "北京"
+      }, {
+          "id": 101,
+          "spell": "beijing",
+          "name": "北海"
+      }, {
+          "id": 102,
+          "spell": "beijing",
+          "name": "北京1"
+      }, {
+          "id": 103,
+          "spell": "beijing",
+          "name": "北京2"
+      }, {
+          "id": 104,
+          "spell": "beijing",
+          "name": "北京3"
+      }, {
+          "id": 105,
+          "spell": "beijing",
+          "name": "北京5"
+      }], 
+      "C": [{
+          "id": 145,
+          "spell": "changsha",
+          "name": "长沙34"
+      }, {
+          "id": 146,
+          "spell": "changsha",
+          "name": "长沙4f"
+      }, {
+          "id": 147,
+          "spell": "changsha",
+          "name": "长沙ef"
+      }, {
+          "id": 148,
+          "spell": "changsha",
+          "name": "长沙为、"
+      }, {
+          "id": 149,
+          "spell": "changsha",
+          "name": "长沙5"
+      }, {
+          "id": 150,
+          "spell": "changsha",
+          "name": "长沙t"
+      }],
+      "D": [{
+          "id": 151,
+          "spell": "dalian",
+          "name": "大连"
+      }, {
+          "id": 152,
+          "spell": "daxing",
+          "name": "大兴"
+      }],
+      "E": [{
+          "id": 161,
+          "spell": "eerduosi",
+          "name": "鄂尔多斯"
+      }, {
+          "id": 162,
+          "spell": "enshi",
+          "name": "恩施"
+      }],
+      "F": [{
+          "id": 171,
+          "spell": "fushun",
+          "name": "抚顺"
+      }, {
+          "id": 172,
+          "spell": "foshan",
+          "name": "佛山"
+      }],
+      "G": [{
+          "id": 181,
+          "spell": "gaoxiong",
+          "name": "高雄"
+      }, {
+          "id": 182,
+          "spell": "gaoxiong",
+          "name": "高雄"
+      }],
+      "H": [{
+          "id": 191,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }, {
+          "id": 192,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }],
+      "J": [{
+          "id": 201,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }, {
+          "id": 202,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }],
+      "K": [{
+          "id": 211,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }, {
+          "id": 212,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }],
+      "L": [{
+          "id": 221,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }, {
+          "id": 222,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }],
+      "M": [{
+          "id": 231,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }, {
+          "id": 232,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }],
+      "N": [{
+          "id": 241,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }, {
+          "id": 242,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }],
+      "O": [{
+          "id": 251,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }, {
+          "id": 252,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }],
+      "P": [{
+          "id": 261,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }, {
+          "id": 262,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }],
+      "Q": [{
+          "id": 271,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }, {
+          "id": 272,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }],
+      "R": [{
+          "id": 281,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }, {
+          "id": 282,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }],
+      "S": [{
+          "id": 291,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }, {
+          "id": 292,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }],
+      "T": [{
+          "id": 301,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }, {
+          "id": 302,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }],
+      "U": [{
+          "id": 311,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }, {
+          "id": 312,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }],
+      "V": [{
+          "id": 321,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }, {
+          "id": 322,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }],
+      "W": [{
+          "id": 331,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }, {
+          "id": 332,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }],
+      "X": [{
+          "id": 341,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }, {
+          "id": 342,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }],
+      "Y": [{
+          "id": 351,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }, {
+          "id": 352,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }],
+      "Z": [{
+          "id": 361,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }, {
+          "id": 362,
+          "spell": "haerbin",
+          "name": "哈尔滨"
+      }]
+    }
+  }
+}
